@@ -6,15 +6,15 @@
 /* Element Selectors */
 body {
   position: relative;
-  font-family: "Goudy Bookletter 1911", fantasy;
-  font-size: 20px;
+  font-family: "Goudy Bookletter 1911", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 10px;
   background-color: #e1ff00;
   color: #000000;
 }
 
 h1,
 h2 {
-  margin: 20px;
+  margin: 10px;
   font-family: fantasy;
 }
 
@@ -111,3 +111,7 @@ button {
 .text-right {
   text-align: right;
 }
+
+@media screen and (max-width: 767px) {
+  .column {
+    width: 100%;
