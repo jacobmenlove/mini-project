@@ -6,7 +6,7 @@
 /* Element Selectors */
 body {
   position: relative;
-  font-family: "Goudy Bookletter 1911", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 10px;
   background-color: #e1ff00;
   color: #000000;
@@ -14,8 +14,8 @@ body {
 
 h1,
 h2 {
-  margin: 10px;
-  font-family: fantasy;
+  margin: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 main {
@@ -114,7 +114,7 @@ button {
 
 figcaption {
 
-  font-family: fantasy;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 @media screen and (max-width: 767px) {
