@@ -115,3 +115,5 @@ button {
 @media screen and (max-width: 767px) {
   .column {
     width: 100%;
+  }
+}
