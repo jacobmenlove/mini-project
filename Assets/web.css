@@ -112,6 +112,11 @@ button {
   text-align: right;
 }
 
+figcaption {
+
+  font-family: fantasy;
+}
+
 @media screen and (max-width: 767px) {
   .column {
     width: 100%;
